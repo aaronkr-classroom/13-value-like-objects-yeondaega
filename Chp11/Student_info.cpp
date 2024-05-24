@@ -14,8 +14,8 @@ istream& read(istream& is, Student_info& s) {
     return is;
 }
 
-// 입력 스트림에서 과제 점수를 읽어서 vector<double>에 넣음.
-istream& read_hw(istream& in, vector<double>& hw) {
+// 입력 스트림에서 과제 점수를 읽어서 Vec<double>에 넣음.
+istream& read_hw(istream& in, Vec<double>& hw) {
     if (in) {
         // 이전 내용을 제거
         hw.clear();
