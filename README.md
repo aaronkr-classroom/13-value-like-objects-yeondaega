@@ -1,1 +1,1 @@
-# 12주차 - 추상 데이터 타입 (Abstract Data Types)
+# 13주차 - 값처럼 동작하는 클래스 객체 (Value-like Class Objects)
